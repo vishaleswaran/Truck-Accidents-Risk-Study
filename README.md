@@ -10,6 +10,11 @@ Accidents caused by large trucks remain one of the leading causes of injuries an
 Upon completing this study, we will be able to answer common business questions related to the trucking business, such as:
 Which truck has the highest risk factor based on geographic location and time?
 
+**Tools Used**
+Storage: Cloudera Hadoop, HDFS
+Data Modeling and ETL: Hive, Impala, and Pig
+Data Visualization: Tableau
+
 **Tasks**
 
 Task 1: Loading Data into Hadoop File System (HDFS)
