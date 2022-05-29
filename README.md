@@ -21,6 +21,23 @@ Outlines
 2.	Create a Hive Table for geolocation tab and load data from Geolocation file.
 3.  Loaded the imported file into HIVE by utilizing “LOAD DATA INPATH”.
 
+Task 2: Integrating HDFS with Tableau via JDBC drivers for Impala and Hive 
 
+Objectives
 
+In this exercise, we will be integrating HDFS instance including the tables with an external analytical tool. Then we can perform some analytics or calculations, creating visualizations or dashboard if needed.
+
+Outlines 
+1)  Identify the correct driver 
+2)  Install the JDBC driver 
+3)  Load the tables into the analytical tools via ETL transactions 
+4)  Create the Charts needed.
+
+Step 1
+1)  Go to the URL https://www.cloudera.com/downloads.html
+2)  Download Impala ODBC Drive only. 
+Step 2 
+Install ODBC for Impala. 
+Step 3 
+Connect to HDFS using Cloudera Hadoop connection in Tableau.
 
