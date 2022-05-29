@@ -11,6 +11,8 @@ Accidents caused by large trucks remain one of the leading causes of injuries an
 Upon completing this study, we will be able to answer common business questions related to the trucking business, such as:
 Which truck has the highest risk factor based on geographic location and time?
 
+**Tasks**
+
 Task 1: Loading Data into Hadoop File System (HDFS)
 
 Objectives 
@@ -33,14 +35,14 @@ Outlines
 3)  Load the tables into the analytical tools via ETL transactions 
 4)  Create the Charts needed.
 
-Step 1
+Step 1:
 
 1)  Go to the URL https://www.cloudera.com/downloads.html
 2)  Download Impala ODBC Drive only. 
 
-Step 2 
+Step 2: 
 Install ODBC for Impala. 
 
-Step 3 
+Step 3:
 Connect to HDFS using Cloudera Hadoop connection in Tableau.
 
