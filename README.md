@@ -1,7 +1,6 @@
 # Truck-Accidents-Risk-Study
 **Project Objective**
 
-By using the Cloudera Hadoop tools and techniques, we will process the data to create our own analytics reports and create a visual presentation that will benefit decision-makers.
 Big Data Hadoop Ecosystems will use truck fleet data to refine and analyze trucking movement to meet the organizational goal of better understanding risk. The use case involves geographic data, vehicles, average mileage, gas consumption, events, risk factors, and other supporting information.
 Each truck has been equipped to with devices to log location and event data. These events are streamed back to a datacenter where we will process the data and revise truck movements to increase safety.
 
