@@ -12,11 +12,12 @@ Which truck has the highest risk factor based on geographic location and time?
 
 **Tools Used**
 
-**Storage**: Cloudera Hadoop, HDFS
+Storage: Cloudera Hadoop, HDFS
 
-**Data Modeling and ETL**: Hive, Impala, and Pig
+Data Modeling and ETL: Hive, Impala, and Pig
 
-**Data Visualization**: Tableau
+Data Visualization: Tableau
+
 
 **Tasks**
 
@@ -52,4 +53,3 @@ Install ODBC for Impala.
 
 Step 3:
 Connect to HDFS using Cloudera Hadoop connection in Tableau.
-
