@@ -36,8 +36,10 @@ Outlines
 Step 1
 1)  Go to the URL https://www.cloudera.com/downloads.html
 2)  Download Impala ODBC Drive only. 
+
 Step 2 
 Install ODBC for Impala. 
+
 Step 3 
 Connect to HDFS using Cloudera Hadoop connection in Tableau.
 
